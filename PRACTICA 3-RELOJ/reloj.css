@@ -1,0 +1,12 @@
+body{
+    background: yellowgreen;
+    text-align: center;
+  }
+  
+  #canvas{
+    border:thin inset green;
+    background: skyblue;
+    margin-top: 50px;
+    
+    display: inline-block;
+  }
